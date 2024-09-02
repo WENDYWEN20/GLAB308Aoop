@@ -1,4 +1,4 @@
-Part 6: Developing Skills is npt finished
+Part 6: Developing Skills is not finished \n
 Many of the core features of these characters are now implemented, but the adventurers cannot  really do much yet. The only action (method) they have is scout().
 Create an additional method, duel(), for the Adventurer class with the following functionality:
 Accept an Adventurer as a parameter.
